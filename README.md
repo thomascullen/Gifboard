@@ -10,5 +10,8 @@ $ npm install
 $ npm run dev
 ```
 
+## Usage
+`Ctrl + Cmd + g`
+
 ## License
 Neno is released under the [MIT License](https://opensource.org/licenses/MIT).
