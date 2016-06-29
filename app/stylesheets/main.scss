@@ -1,0 +1,22 @@
+@import './mixins';
+@import './search';
+@import './gif';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: helvetica, sans-serif;
+}
+
+html, body { overflow: hidden; }
+
+.app {
+  width: 600px;
+  overflow: hidden;
+  margin: 20px auto;
+  border-radius: 6px;
+  background: #EFF1F7;
+  padding-bottom: 10px;
+  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.2);
+}
