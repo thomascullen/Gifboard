@@ -14,4 +14,4 @@ $ npm run dev
 `Ctrl + Cmd + g`
 
 ## License
-Neno is released under the [MIT License](https://opensource.org/licenses/MIT).
+Gifboard is released under the [MIT License](https://opensource.org/licenses/MIT).
